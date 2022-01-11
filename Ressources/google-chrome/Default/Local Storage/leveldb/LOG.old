@@ -1,0 +1,14 @@
+2022/01/11-11:22:59.529 3 Reusing MANIFEST /home/jojo/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/01/11-11:22:59.530 3 Recovering log #13
+2022/01/11-11:22:59.531 3 Reusing old log /home/jojo/.config/google-chrome/Default/Local Storage/leveldb/000013.log 
+2022/01/11-11:25:30.007 7 Level-0 table #17: started
+2022/01/11-11:25:30.031 7 Level-0 table #17: 11744 bytes OK
+2022/01/11-11:25:30.036 7 Delete type=0 #13
+2022/01/11-11:25:30.037 5 Compacting 4@0 + 0@1 files
+2022/01/11-11:25:30.042 5 Generated table #18@0: 160 keys, 15690 bytes
+2022/01/11-11:25:30.042 5 Compacted 4@0 + 0@1 files => 15690 bytes
+2022/01/11-11:25:30.045 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/01/11-11:25:30.047 5 Delete type=2 #10
+2022/01/11-11:25:30.047 5 Delete type=2 #14
+2022/01/11-11:25:30.047 5 Delete type=2 #7
+2022/01/11-11:25:30.047 5 Delete type=2 #17
