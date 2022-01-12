@@ -35,8 +35,7 @@ cd /etc/skel/
 dos2unix interaactionBoxLauncher
 chmod +x interaactionBoxLauncher
 
-cd .config
-mkdir autostart
+cp -R ~/Ressources/autostart /etc/skel/
 
 cd /etc/skel/
 mkdir .local/
@@ -45,7 +44,8 @@ mkdir .local/share/applications
 cp ~/Ressources/DesktopFiles/*.desktop  .local/share/applications
 chmod a+x /etc/skel/.local/share/applications
 cp ~/Ressources/DesktopFiles/InteraactionBoxLauncher.desktop /etc/skel/.config/autostart
-chmod a+x /etc/skel/.config/autostart/InteraactionBoxLauncher.desktop
+
+chmod a+x /etc/skel/.config/autostart/*
 
 cp -R ~/Ressources/Launcher /etc/skel/
 dos2unix /etc/skel/Launcher/*

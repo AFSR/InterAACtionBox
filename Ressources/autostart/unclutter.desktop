@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/unclutter -idle 0.1 -root
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[fr_FR]=Unclutter
+Name=Unclutter
+Comment[fr_FR]=Désactive la souris lorsqu'on utilise l'écran tactile
+Comment=Disables the mouse when using the touch screen

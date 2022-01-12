@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb1964bb-a440-4dd2-9ea9-ce1d72705177" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ISOScripts/corsInstall.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libs/touchegg_1.1.1-0ubuntu4_amd64.deb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Libs/unclutter_8-25_amd64.deb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ressources/autostart/touchegg.desktop" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ressources/autostart/unclutter.desktop" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ISOScripts/interAACtionBoxInstall.sh" beforeDir="false" afterPath="$PROJECT_DIR$/ISOScripts/interAACtionBoxInstall.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/install.sh" beforeDir="false" afterPath="$PROJECT_DIR$/install.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ressources/interaactionBoxLauncher.desktop" beforeDir="false" afterPath="$PROJECT_DIR$/Ressources/autostart/InteraactionBoxLauncher.desktop" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +16,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="22MfRYIAckXSLEC8WzguifXPdmL" />
@@ -26,17 +34,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="GitIgnore" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ISOScripts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Ressources/autostart" />
     <property name="settings.editor.selected.configurable" value="gradle.compiler" />
     <property name="settings.editor.splitter.proportion" value="0.23727088" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jordan\Documents\GitHub\InterAACtionBox\Ressources\autostart" />
+      <recent name="C:\Users\jordan\Documents\GitHub\InterAACtionBox\Libs" />
       <recent name="C:\Users\jordan\Documents\GitHub\InterAACtionBox\ISOScripts" />
       <recent name="C:\Users\jordan\Documents\GitHub\InterAACtionBox\Ressources" />
       <recent name="C:\Users\jordan\Documents\GitHub\InterAACtionBox\slides\en" />
-      <recent name="C:\Users\jordan\Documents\GitHub\InterAACtionBox\slides\icons" />
-      <recent name="C:\Users\jordan\Documents\GitHub\InterAACtionBox\slides" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\jordan\Documents\GitHub\InterAACtionBox\ISOScripts" />

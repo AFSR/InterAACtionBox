@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/bin/touchegg
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[fr_FR]=Touchegg
+Name=Touchegg
+Comment[fr_FR]=Emuler le clic droit par un appui long ou avec deux doigts sur l'écran tactile de la surface Microsoft
+Comment=Emulate the right click with a long press or with two fingers on the Microsoft surface touch screen
